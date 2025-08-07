@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Frutas: Manga, Amóra, ameixa, pitanga
+=======
+Frutas: Manga, amora, ameixa, banana
+>>>>>>> 12fa62275c358128bb621f4e809d2a905ae3c241
