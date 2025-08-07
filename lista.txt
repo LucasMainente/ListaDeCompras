@@ -1,1 +1,1 @@
-Frutas: Manga, Amóra, ameixa, 
+Frutas: Manga, amora, ameixa, banana
